@@ -18,6 +18,8 @@ Hello, my name is (name of author), and I am looking forward to collaborating wi
 
 # Week 1
 
+## SE1
+
 #### Summary
 
 This is where you will write the summary for the reading.
@@ -28,5 +30,19 @@ This is where you will write a reflection for the reading.
 
 #### Use-Case
 
-This is where you will write about how topics covered in the reading can be implemented to the Chasten.
+This is where you will write about how topics covered in the reading can be implemented to the Chasten project.
+
+## FB1
+
+#### Summary
+
+This is where you will write the summary for the reading.
+
+#### Reflection
+
+This is where you will write a reflection for the reading.
+
+#### Use-Case
+
+This is where you will write about how topics covered in the reading can be implemented to the Chasten project.
 
